@@ -2,7 +2,6 @@
 let user_name = prompt("Enter your username:");
 let user_password = prompt("Enter your password:");
 
-// Predefined password for validation
 let password = "inigo"; // my pass
 
 // Check if entered password matches
